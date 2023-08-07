@@ -1,0 +1,2 @@
+#!/bin/bash
+ctata /etc/passwd /etc/hosts
